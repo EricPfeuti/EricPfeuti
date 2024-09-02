@@ -5,7 +5,7 @@
 
 ## Tecnologias que uso:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,mongo,mysql,figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,mongo,figma,vscode)](https://skillicons.dev)
 
 Estudante de programação apaixonado por resolver problemas e criar soluções inovadoras com tecnologia, possuo habilidades em front-end e back-end, buscando oportunidades para aplicar conhecimentos em projetos reais. 
 
