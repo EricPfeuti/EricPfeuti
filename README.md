@@ -13,7 +13,7 @@
 
 Estudante de programação apaixonado por resolver problemas e criar soluções inovadoras com tecnologia, possuo habilidades em front-end e back-end, buscando oportunidades para aplicar conhecimentos em projetos reais. 
 
-## Email de Contato:
+## 📧 Email de Contato:
 - eric.pfeuti2007@gmail.com
 
 
