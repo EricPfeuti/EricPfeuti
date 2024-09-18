@@ -9,7 +9,7 @@
 
 ## Ferramentas:
 
-[![My Skills](https://skillicons.dev/icons?i=figma,vscode,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,vscode,bootstrap,photoshop)](https://skillicons.dev)
 
 Estudante de programação apaixonado por resolver problemas e criar soluções inovadoras com tecnologia, possuo habilidades em front-end e back-end, buscando oportunidades para aplicar conhecimentos em projetos reais. 
 
