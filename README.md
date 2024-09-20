@@ -5,7 +5,7 @@
 
 ## Tecnologias que uso:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,python,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,mongo)](https://skillicons.dev)
 
 ## Ferramentas:
 
