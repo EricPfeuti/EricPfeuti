@@ -1,16 +1,15 @@
 # Olá! Eu sou Eric Pfeuti! 🤝
+#### Estudante de programação apaixonado por resolver problemas e criar soluções inovadoras com tecnologia, possuo habilidades em front-end e back-end, buscando oportunidades para aplicar conhecimentos em projetos reais. 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-pfeuti-b481142a8/)
+<hr>
 
 ## Tecnologias que uso:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,mongo)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,mongo,figma,vscode,bootstrap,photoshop,github,vercel)](https://skillicons.dev)
 
-## Ferramentas:
+![Eric Pfeuti GitHub stats](https://github-readme-stats.vercel.app/api?username=ericpfeuti&show_icons=true&theme=radical)
 
-[![My Skills](https://skillicons.dev/icons?i=figma,vscode,bootstrap,photoshop,github,pycharm,vercel)](https://skillicons.dev)
-
-#### Estudante de programação apaixonado por resolver problemas e criar soluções inovadoras com tecnologia, possuo habilidades em front-end e back-end, buscando oportunidades para aplicar conhecimentos em projetos reais. 
+<hr>
 
 ## 📧 Email de Contato:
 - eric.pfeuti2007@gmail.com
