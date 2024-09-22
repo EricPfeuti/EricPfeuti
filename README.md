@@ -6,8 +6,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,mongo,figma,vscode,bootstrap,photoshop,github,vercel)](https://skillicons.dev)
 
-## Contato:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/eric-pfeuti-b481142a8)
+## 💡 Vamos conversar!
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-pfeuti-b481142a8/)
 <br>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ericpfeuti&theme=highcontrast)](https://git.io/streak-stats)
