@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" style="width:35px;">  Olá! Eu sou Eric Pfeuti! 
 
-### Estudante de programação apaixonado por resolver problemas e criar soluções inovadoras com tecnologia, possuo habilidades em front-end e back-end, buscando oportunidades para aplicar conhecimentos em projetos reais. 
+#### Estudante de programação apaixonado por resolver problemas e criar soluções inovadoras com tecnologia, possuo habilidades em front-end e back-end, buscando oportunidades para aplicar conhecimentos em projetos reais. 
 
 ## 💻 Minhas Habilidades:
 
