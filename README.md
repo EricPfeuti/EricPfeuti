@@ -4,7 +4,7 @@
 
 ## 💻 Minhas Habilidades:
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,python,mongo,mysql,github,figma,vscode,bootstrap,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,python,mongo,github,figma,vscode,bootstrap,vercel)](https://skillicons.dev)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ericpfeuti&theme=highcontrast)](https://git.io/streak-stats)
 
