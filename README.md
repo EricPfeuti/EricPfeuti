@@ -1,6 +1,6 @@
 # <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" style="width:35px;"> Hi, I'm Eric Pfeuti! 
 
-Computer science student passionate about solving problems and creating innovative solutions with technology, I have front-end and back-end skills, looking for opportunities to apply knowledge in real projects.
+### Computer science student passionate about solving problems and creating innovative solutions with technology, I have front-end and back-end skills, looking for opportunities to apply knowledge in real projects.
 
 ## 💻 My Skills:
 
