@@ -6,6 +6,8 @@ Estudante de programação apaixonado por resolver problemas e criar soluções 
 
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,python,mongo,github,figma,vscode,bootstrap,vercel)](https://skillicons.dev)
 
+## 🌌 Minha sequência:
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ericpfeuti&theme=highcontrast)](https://git.io/streak-stats)
 
 ## 💡 Vamos conversar!
