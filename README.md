@@ -4,7 +4,7 @@
 
 ## 💻 My Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,html,css,python,mongo,github,figma,vscode,bootstrap,vercel)](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,nodejs,python,mongodb,sqlserver,bootstrap,photoshop,vercel,=true)
 
 ## 🌌 Overview:
 
