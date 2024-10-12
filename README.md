@@ -4,7 +4,7 @@ Computer science student passionate about solving problems and creating innovati
 
 ## 💻 My Skills:
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,nodejs,python,mongodb,sqlserver,bootstrap,photoshop,vercel,=true)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,nodejs,python,mongodb,sqlserver,bootstrap,photoshop,vercel,expressjs,=true)
 
 ## 🌌 Overview:
 
