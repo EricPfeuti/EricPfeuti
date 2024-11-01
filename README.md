@@ -3,8 +3,8 @@
 - 👨‍💻 Estudante de Programação na FIAP School;
 - 🖥️ Sou estudante de tecnologia há mais de 2 anos;
 - ☄️ Busco sempre aprender coisas novas;
-- 🌐 Inglês Fluente;
 - 💼 Estou em busca de novas oportunidades;
+- 🌐 Inglês Fluente;
 
 ## 💻 Linguagens e Ferramentas:
 
