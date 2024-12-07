@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" style="width:35px;"> Olá, sou Eric Pfeuti! 
 
 - 👨‍💻 Estudante de Programação na FIAP School;
-- 🖥️ Estou nesta área de tecnologia há mais de 2 anos;
+- 🖥️ Estou nesta área de tecnologia há mais de 3 anos;
 - ☄️ Busco sempre aprender coisas novas;
 - 💼 Sigo em busca de novas oportunidades;
 - 🌐 Inglês Fluente;
