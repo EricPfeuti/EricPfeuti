@@ -6,7 +6,7 @@
 - 💼 Sigo em busca de novas oportunidades;
 - 🌐 Inglês Fluente;
 
-## 💻 Linguagens e Ferramentas:
+## 💻 Skills:
 
 <div style="display: inline_block;">
   <img align="center" alt="Eric-Js" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
