@@ -18,6 +18,8 @@
   <img align="center" alt="Eric-Python" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Eric-SQLServer" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">    
   <img align="center" alt="Eric-PhotoShop" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+  <img align="center" alt="Eric-Figma" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+          
 </div>
 
 ## 💡 Me encontre!
