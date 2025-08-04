@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" style="width:35px;"> Olá, sou Eric Pfeuti! 
+# <code>Olá, sou Eric Pfeuti!</code> 
 
 - 👨‍💻 Estudante de Programação na FIAP School;
 - 🖥️ Estou nesta área de tecnologia há mais de 3 anos;
