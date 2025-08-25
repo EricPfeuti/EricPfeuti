@@ -1,6 +1,6 @@
 # <code>Olá, sou Eric Pfeuti!</code> 
 
-- 👨‍💻 Estudante de Programação na FIAP School;
+- 👨‍💻 Tenho 17 anos e sou estudante de Programação na FIAP School;
 - 🖥️ Estou nesta área de tecnologia há mais de 4 anos;
 - ☄️ Busco sempre aprender coisas novas;
 - 💼 Sigo em busca de novas oportunidades;
