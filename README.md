@@ -15,9 +15,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![React](https://img.shields.io/badge/react-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=white)
 
-<div style="display: inline_block;">
-
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EricPfeuti&layout=compact)
 
 ## 💡 Me encontre!
 
