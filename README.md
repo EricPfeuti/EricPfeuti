@@ -18,6 +18,6 @@
 
 ## 💡 Me encontre!
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-pfeuti-b481142a8/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&label=&logoColor=white)](https://www.linkedin.com/in/eric-pfeuti-b481142a8/)
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:eric.pfeuti2007@gmail.com)
 
