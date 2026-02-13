@@ -1,12 +1,13 @@
 # <code>Olá, sou Eric Pfeuti!</code> 
 
-- 👨‍💻 Tenho 18 anos e sou estudante de Programação na FIAP School;
+- 👨‍💻 Tenho 18 anos e estou realizando bacharelado em Ciência da Computação no Mackenzie;
 - 🖥️ Estou nesta área de tecnologia há mais de 4 anos;
 - ☄️ Busco sempre aprender coisas novas;
 - 💼 Sigo em busca de novas oportunidades;
 - 🌐 Inglês Fluente;
 
 ## 💻 Skills:
+![Python](https://img.shields.io/badge/python-%23007A.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
