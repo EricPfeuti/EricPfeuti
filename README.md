@@ -1,4 +1,4 @@
-# <code>Olá, sou Eric Pfeuti!</code> 
+# 👋 Olá, sou Eric Pfeuti!
 
 - 👨‍💻 Tenho 18 anos e estou realizando bacharelado em Ciência da Computação no Mackenzie;
 - 🖥️ Estou nesta área de tecnologia há mais de 4 anos;
@@ -7,7 +7,7 @@
 - 🌐 Inglês Fluente;
 
 ## 💻 Skills:
-![Python](https://img.shields.io/badge/python-%23007A.svg?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2307A.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
