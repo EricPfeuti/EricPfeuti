@@ -1,7 +1,7 @@
 # 👋 Olá, sou Eric Pfeuti!
 
 - 👨‍💻 Tenho 18 anos e estou realizando bacharelado em Ciência da Computação no Mackenzie;
-- 🖥️ Estou nesta área de tecnologia há mais de 4 anos;
+- 🖥️ Estou nesta área de tecnologia há mais de 5 anos;
 - ☄️ Busco sempre aprender coisas novas;
 - 💼 Sigo em busca de novas oportunidades;
 - 🌐 Inglês Fluente;
